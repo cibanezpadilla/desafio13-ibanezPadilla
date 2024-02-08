@@ -1,0 +1,72 @@
+{
+  index: 0,
+  code: 11000,
+  keyPattern: { code: 1 },
+  keyValue: { code: 'abc1006' },
+  level: 'error',
+  timestamp: '2024-02-07T20:48:40.532Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  index: 0,
+  code: 11000,
+  keyPattern: { code: 1 },
+  keyValue: { code: 'abc11' },
+  level: 'error',
+  timestamp: '2024-02-07T21:31:21.869Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  code: 404,
+  name: 'PRODUCT_NOT_FOUND',
+  level: 'error',
+  timestamp: '2024-02-08T02:39:06.962Z'
+}
+{
+  code: 404,
+  name: 'PRODUCT_NOT_FOUND',
+  level: 'error',
+  timestamp: '2024-02-08T02:44:17.030Z'
+}
+{
+  code: 404,
+  name: 'PRODUCT_NOT_FOUND',
+  level: 'error',
+  timestamp: '2024-02-08T02:48:04.443Z'
+}
+{
+  code: 404,
+  name: 'PRODUCT_NOT_FOUND',
+  level: 'error',
+  timestamp: '2024-02-08T02:48:43.181Z'
+}
+{
+  code: 404,
+  name: 'PRODUCT_NOT_FOUND',
+  level: 'error',
+  timestamp: '2024-02-08T02:52:09.530Z'
+}
+{
+  code: 404,
+  name: 'PRODUCT_NOT_FOUND',
+  level: 'error',
+  timestamp: '2024-02-08T02:53:37.849Z'
+}
+{
+  code: 404,
+  name: 'PRODUCT_NOT_FOUND',
+  level: 'error',
+  timestamp: '2024-02-08T03:00:43.950Z'
+}
+{
+  code: 404,
+  name: 'PRODUCT_NOT_FOUND',
+  level: 'error',
+  timestamp: '2024-02-08T03:04:27.847Z'
+}
+{
+  code: 404,
+  name: 'PRODUCT_NOT_FOUND',
+  level: 'error',
+  timestamp: '2024-02-08T03:04:31.288Z'
+}
